@@ -2,7 +2,7 @@
 
 ## 📚 Objetivo da atividade
 
-Projeto desenvolvido como parte de atividades acadêmicas de Redes Neurais e Aprendizado Profundo, englobando a implementação comparativa de múltiplas abordagens (DenseNet121 e DenseNet169) e a seleção fundamentada da melhor arquitetura para o desenvolvimento do artigo científico.
+Projeto desenvolvido como parte de atividades acadêmicas de Redes Neurais Artificiais, englobando a implementação comparativa de múltiplas abordagens (DenseNet121 e DenseNet169) e a seleção fundamentada da melhor arquitetura para o desenvolvimento do artigo científico.
 
 - **Base de dados:** Chest X-Ray Images (Pneumonia)
 - **Problema:** Classificação de Imagens Médicas (Binária)
@@ -155,5 +155,14 @@ O modelo treinado foi serializado e salvo no formato `.keras`:
 - **Matplotlib & Seaborn**
 - **SHAP**
 - **KaggleHub**
+
+---
+
+## 👥 Integrantes do Projeto
+
+Projeto desenvolvido por estudantes da Universidade Federal Rural do Semi-Árido (UFERSA), Campus Pau dos Ferros, como parte da disciplina de Redes Neurais Artificiais.
+
+- **Amanda de Queiroz Santiago**
+- **Kayc Henderson Morais Leite**
 
 ---
